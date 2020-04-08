@@ -52,6 +52,7 @@ public class Language {
 
     @Override
     public int hashCode() {
+        System.out.println("Testing RE");
         return id.hashCode();
     }
 
