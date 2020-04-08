@@ -45,6 +45,7 @@ public class GraphEvent {
      * @return the graph
      */
     public Graph getGraph() {
+		System.out.println("Testing RE");
         return graph;
     }
 
